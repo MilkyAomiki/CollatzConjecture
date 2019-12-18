@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>baseline_bubble_chart_black_36dp.png</file>
+    </qresource>
+</RCC>
